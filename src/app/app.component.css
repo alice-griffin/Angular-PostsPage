@@ -1,0 +1,9 @@
+app-social-posts {
+    width: 75%;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    margin: auto;
+}
